@@ -1,0 +1,91 @@
+		*{
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		}
+		body {
+		font-family: 'Open Sans', sans-serif;
+		text-align: center;
+		background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+		background-repeat: no-repeat;	
+		background-size: cover;
+		background-attachment: fixed; 
+		background-position: center;
+		color: black;
+		}	
+		.contenedor{
+		text-align: center;
+		border: 3px solid blue;
+		padding: auto; 
+		width: auto;
+		height: auto;
+		max-width: auto;
+		overflow: hidden;
+		background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+		border-radius: 2px;
+		position: relative;
+		flex-wrap: wrap;
+
+
+		}	
+		.div{
+		margin: 10px 20px;
+		box-shadow: 0 4px 8px 0 lightskyblue, 0 6px 20px 0 rgba(0,0,0,0.19);
+		background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+		background-repeat: no-repeat;	
+		background-size: cover;
+		background-attachment: fixed; 
+		background-position: center;
+		width: auto;
+		height: 100%;
+		text-align: center;
+		
+		min-width: 300px;
+		
+
+		}
+		.imagen{
+	
+		box-shadow: 0 0 6px rgba(0, 0, 0, .9);
+		margin: 10px;
+		
+	
+			
+	
+
+		}
+		.galeria{
+		margin: 10px;
+		background-image: linear-gradient(to right, #ffc3a0 0%, #ffafbd 100%);
+		max-width: 1200px;
+		margin: 30px auto;
+		display: 10px;
+		
+		text-align: center;
+		font-size: 25px;
+		
+		
+		min-width: 320px;
+		max-width: 1000px;
+		margin-bottom: 0px;
+		width: 75vh;
+  		}
+  		.text{
+  		font-family: "Mystery Quest";
+		font-size: 50px;
+		text-decoration: underline;
+  		}
+
+
+  		.Profesor{
+  			padding: auto;
+  			margin: 30px auto;
+  			height: 40%;
+  			background: pink;
+  			width: 60%;
+  			color: blue;
+
+  		}
+
+
+  
