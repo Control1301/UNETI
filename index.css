@@ -57,7 +57,7 @@
 		.galeria{
 		margin: 10px;
 		background-image: linear-gradient(to right, #ffc3a0 0%, #ffafbd 100%);
-		max-width: 1200px;
+		
 		margin: 30px auto;
 		display: 10px;
 		
@@ -65,10 +65,6 @@
 		font-size: 25px;
 		
 		
-		min-width: 320px;
-		max-width: 1000px;
-		margin-bottom: 0px;
-		width: 75vh;
   		}
   		.text{
   		font-family: "Mystery Quest";
